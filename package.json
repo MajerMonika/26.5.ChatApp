@@ -21,10 +21,10 @@
   "homepage": "https://github.com/MajerMonika/26.5.ChatApp#readme",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.4",
+    "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
-    "css-loader": "^2.1.0",
+    "css-loader": "^1.0.1",
     "express": "^4.16.4",
     "html-webpack-plugin": "^3.2.0",
     "optimize-js-plugin": "0.0.4",
